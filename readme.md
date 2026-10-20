@@ -13,6 +13,14 @@ Sono presenti due versioni.
 Studiate prima la versione `base`, verificate il risultato in console e capite come funziona.
 Quando è tutto chiaro verificate le differenza con la versione `extra`, sempre aiutandovi con la console
 
+## Bonus
+
+Un evoluzione di questo esercizio potrebbe essere:
+In pagina è presente una <ul> che contiene 5 <li>.
+Ogni <li> contiene un nome.
+In basse è presente una input con un bottone "cerca".
+Al click del pulsante, cercate nella lista l'elemento nella input.
+
 ## Note
 
 - Questo esercizio, come tutti, andrebbe affrontato un passo alla volta.
